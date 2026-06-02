@@ -64,6 +64,3 @@ The key point: this cannot be explained by a hidden classical variable
 secretly determining each outcome in advance. Quantum mechanics is 
 irreducibly probabilistic.
 
-```
-
-Histograms are saved to the project folder
